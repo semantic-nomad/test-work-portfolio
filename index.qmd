@@ -8,18 +8,16 @@ editor: visual
 
 ![Brandon Whitehead, shown in nature's laboratory.](assets/bw_bn_full.jpg)
 
+Hello, I’m **Brandon Whitehead**, an \[BLANK\] fascinated by the dynamic nature of \[BLANK\].\
+My work with **\[BLANK\]** led to the discovery of \[BLANK\], \[BLANK\], and eventually, **\[BLANK\]** — \[MORE EXPLANATION OF BLANK\].
 
-Hello, I’m **Brandon Whitehead**, an [BLANK] fascinated by the dynamic nature of [BLANK].\
-My work with **[BLANK]** led to the discovery of [BLANK], [BLANK], and eventually, **[BLANK]** — [MORE EXPLANATION OF BLANK].
+I am currently working on my PhD in Environmental Engineering Sciences at the [**University of Florida**](https://www.ufl.edu/).
 
-I am currently working on my PhD in Environmental Engineering Sciences at the **[University of Florida](https://www.ufl.edu/)**.
-
-I have a Master of Science in Geography from **[Minnesota State University Mankato](https://www.mnsu.edu/)**.  
-
+I have a Master of Science in Geography from [**Minnesota State University Mankato**](https://www.mnsu.edu/).
 
 This site serves as a portfolio of my research, publications, and ongoing scientific interests.
 
 ------------------------------------------------------------------------
 
-> “If you don't like change, you're going to like irrelevance even less.” \
-  -- Gen. Eric Shinseki, retired Chief of Staff, U.S. Army
+> “If you don't like change, you're going to like irrelevance even less.”\
+> -- Gen. Eric Shinseki, retired Chief of Staff, U.S. Army
