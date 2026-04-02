@@ -4,7 +4,7 @@ format: html
 editor: visual
 ---
 
-My lifelong scientific interest lies in understanding how **[BLANK]** — and how [MORE GRANULAR EXPLANATION OF BLANK].
+My lifelong scientific interest lies in understanding how **\[BLANK\]** — and how \[MORE GRANULAR EXPLANATION OF BLANK\].
 
 ## Cytogenetics of Maize
 
@@ -26,5 +26,5 @@ These findings helped connect genetic variability with the evolutionary adaptati
 
 ------------------------------------------------------------------------
 
-> "If we only knew what we know... we would be astonished at the treasures contained in our knowledge." \
-  -- Immanuel Kant, Vienna Logic (p.298)
+> "If we only knew what we know... we would be astonished at the treasures contained in our knowledge."\
+> -- Immanuel Kant, Vienna Logic (p.298)

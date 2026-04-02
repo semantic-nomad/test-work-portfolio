@@ -4,14 +4,16 @@ format: html
 editor: visual
 bibliography: brandon.bib
 ---
+
+```{=html}
 <!--nocite: '@*'
 ---
 -->
+```
 
 Below is a curated selection of my scientific outputs and contributions.
 
 ### 📚 Selected Publications {#articles}
-
 
 ### 🔬 Data {#data}
 
@@ -19,8 +21,7 @@ Below is a curated selection of my scientific outputs and contributions.
 
 ### 🗞 Media {#media}
 
-
 ### 🌐 Professional Links
-- GitLab: @[brandonnodnarb](https://gitlab.com/brandonnodnarb)
-- GitHub: @[semantic-nomad](https://github.com/semantic-nomad)
-- GitHub work: @[brandonnodnarb](https://githum.com/brandonnodnarb)
+
+-   GitLab: \@[semantic-nomad](https://gitlab.com/semantic_nomad)
+-   GitHub: \@[semantic-nomad](https://github.com/semantic-nomad)
